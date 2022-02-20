@@ -84,7 +84,7 @@ Cointel Finance reserves the right at its sole discretion to to amend any provis
 
 4.6 You may republish some or part of our Site Content (individually and collectively, the “ScreenCaptures”), and/or place one or more links to the Website (individually and collectively, the “Link”) on your own non-commercial website, blog or other platform (individually and collectively, “Your Platform”), provided that:
 Any Link shall be titled only as "Link to cointel.finance”;
-Any ScreenCaptures shall be duly attributed with the phrase “Screenshot from cintel.finance”;
+Any ScreenCaptures shall be duly attributed with the phrase “Screenshot from cointel.finance”;
 No ScreenCaptures shall contain third party information, write-ups or feedback (i.e. information from an user of Cointel Finance or information regarding other entities, which are not information from or about Cointel Finance itself), nor any personal data (i.e. information that can be used singly or in conjunction with other available information to identify an individual);
 Your Platform shall not contain any content that is unlawful, threatening, scandalous, seditious, abusive, libelous, defamatory or otherwise inappropriate to the image of Cointel Finance (as may be determined by our Company in our sole discretion);
 The look and feel of all content that accompanies the ScreenCaptures and/or Link or is on the same page as any ScreenCaptures or the Link shall not (as determined in the sole discretion of Cointel Finance) bear any write-ups, pictures, content, insinuations, or implications that may lower the reputation of Contel Finance, damage or dilute the goodwill associated with Cointel Finance, the reputation or any Branding
